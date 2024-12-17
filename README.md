@@ -1,7 +1,7 @@
 <p align="center">Hi there </p>
 
-<img src="https://i.pinimg.com/originals/7c/94/14/7c941471d957e19a871de0fd5b237436.gif" alt="Your GIF" width="100%" height="400px">
-
+<!-- <img src="https://i.pinimg.com/originals/7c/94/14/7c941471d957e19a871de0fd5b237436.gif"  alt="Summer River Flowing Ghibli gif" width="100%" height="400px">-->
+<img src="https://i.pinimg.com/originals/11/cf/ee/11cfeef9eaa56c71a6eeb9933f933492.gif"  alt="Wniter Snoopy on the roof gif" width="100%" height="400px">
   <!--
 **ITSURENXD/ITSURENXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
