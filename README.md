@@ -1,4 +1,5 @@
-<p align="center">Hi there </p>
+<!--<p align="center">Hi there </p>-->
+<p align="center">✨ 2025年: 新年明けましておめでとう ✨</p>
 
 <!-- <img src="https://i.pinimg.com/originals/7c/94/14/7c941471d957e19a871de0fd5b237436.gif"  alt="Summer River Flowing Ghibli gif" width="100%" height="400px">-->
 <!-- <img src="https://i.pinimg.com/originals/6b/9a/eb/6b9aeb45310db4fad6851f4f51417a28.gif"  alt="Butterfly Reserved Image" width="100%" height="400px">-->
