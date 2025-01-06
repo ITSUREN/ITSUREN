@@ -1,5 +1,9 @@
 <!--<p align="center">Hi there </p>-->
-<p align="center">✨ 2025年: 新年明けましておめでとう ✨</p>
+<p align="center">
+  <img style="height: 50px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=%E2%9C%A8+2025%E5%B9%B4%3A+%E6%96%B0%E5%B9%B4%E6%98%8E%E3%81%91%E3%81%BE%E3%81%97%E3%81%A6%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<!--<p align="center">✨ 2025年: 新年明けましておめでとう ✨</p>-->
 
 <!-- <img src="https://i.pinimg.com/originals/7c/94/14/7c941471d957e19a871de0fd5b237436.gif"  alt="Summer River Flowing Ghibli gif" width="100%" height="400px">-->
 <!-- <img src="https://i.pinimg.com/originals/6b/9a/eb/6b9aeb45310db4fad6851f4f51417a28.gif"  alt="Butterfly Reserved Image" width="100%" height="400px">-->
